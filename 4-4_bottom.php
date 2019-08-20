@@ -1,0 +1,1 @@
+<p>Copyright 2015 Lorem ipsum dolor sit amet.</p>

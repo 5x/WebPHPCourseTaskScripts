@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="12-13cars.xsl"?>
+<catalog>
+    <item>
+        <brand>Toyota GT 86</brand>
+        <mark>GT 86</mark>
+        <year>2015</year>
+        <mileage>100</mileage>
+        <color>red</color>
+        <price>27000</price>
+    </item>
+    <item>
+        <brand>BMW</brand>
+        <mark>M5</mark>
+        <year>2013</year>
+        <mileage>4000</mileage>
+        <color>black</color>
+        <price>90000</price>
+    </item>
+    <item>
+        <brand>BMW</brand>
+        <mark>X6</mark>
+        <year>2014</year>
+        <mileage>1500</mileage>
+        <color>white</color>
+        <price>60000</price>
+    </item>
+</catalog>
